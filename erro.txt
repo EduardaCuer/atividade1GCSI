@@ -1,0 +1,4 @@
+Simulação de erro:
+- Caminho da imagem estava incorreto
+- CSS não foi carregado inicialmente
+- Corrigido nas versões seguintes
